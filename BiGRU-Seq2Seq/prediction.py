@@ -133,8 +133,8 @@ def plot_prediction(prediction, output_folder='prediction_plot'):
     plt.scatter(future_pred_lat, future_pred_lon, color='red', marker='o', s=70, label='Predicted Future Trajectory')
     plt.plot(future_pred_lat, future_pred_lon, color='red')
 
-    plt.xlabel('Latitude')
-    plt.ylabel('Longitude')
+    plt.xlabel('Longitude')
+    plt.ylabel('Latitude')
     plt.legend()
     plt.savefig(save_path)
     plt.close()
