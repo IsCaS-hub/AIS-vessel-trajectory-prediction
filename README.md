@@ -1,5 +1,5 @@
 # AIS-vessel-trajectory-prediction
-Extra materials of the paper "Learning to Predict Trajectories with Destinations from Massive Vessel Data", including code and data.
+Extra materials of the paper "Learning to Predict Trajectories with Destinations from Massive Vessel Data".
 
 The raw AIS dataset used in this experiment is sourced from AccessAIS:
     Data source: https://marinecadastre.gov/accessais/
